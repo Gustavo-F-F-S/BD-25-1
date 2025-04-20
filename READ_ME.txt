@@ -1,1 +1,2 @@
-um  repositório para tarefas de banco de dados, SQL e avaliações
+um  repositório para tarefas e avaliações de banco de dados e SQL.
+
