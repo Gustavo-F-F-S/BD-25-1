@@ -3,7 +3,7 @@ import mysql.connector
 def main():
     # Ajuste os parâmetros conforme seu container
     conexao = mysql.connector.connect(
-        host='192.168.0.13',      # ou o IP do host do Docker, se não for local
+        host='172.17.0.1',      # ou o IP do host do Docker, se não for local
         port=3306,
         user='usuario',
         password='senha_segura',
